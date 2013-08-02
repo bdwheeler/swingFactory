@@ -1,0 +1,23 @@
+[PropertyInfo]
+addedBackgroundColor,java.awt.Color,false,false,addedBackgroundColor,addedBackgroundColor,true,<default>
+addedForegroundColor,java.awt.Color,false,false,addedForgroundColor,addedForgroundColor,true,<default>
+changedBackgroundColor,java.awt.Color,false,false, , ,true,<default>
+changedForegroundColor,java.awt.Color,false,false,changedForgroundColor,changedForgroundColor,true,<default>
+deletedBackgroundColor,java.awt.Color,false,false,deletedBackgroundColor,deletedBackgroundColor,true,<default>
+deletedForegroundColor,java.awt.Color,false,false,deletedForgroundColor,deletedForgroundColor,true,<default>
+diff,Diff,false,false, , ,false,<default>
+lineDiffViewer,LineDiffViewer,false,false, , ,false,<default>
+lineLength,int,false,false, , ,false,<default>
+lineSizeSelectionEnabled,boolean,false,false, , ,true,<default>
+numberForegroundColor,java.awt.Color,false,false, , ,true,<default>
+rend1,DiffLineRenderer,false,false, , ,false,<default>
+rend2,DiffLineRenderer,false,false, , ,false,<default>
+text1,String,false,false, , ,false,<default>
+text2,String,false,false, , ,false,<default>
+unchangedBackgroundColor,Color,false,false, , ,true,<default>
+unchangedForgroundColor,Color,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

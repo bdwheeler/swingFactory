@@ -1,0 +1,40 @@
+[PropertyInfo]
+addedBackground,java.awt.Color,false,false,addedBackground,addedBackground,true,<default>
+addedFileImageIcon,ImageIcon,false,false, , ,true,<default>
+addedForeground,java.awt.Color,false,false,addedForeground,addedForeground,true,<default>
+backgroundNonSelectionColor,Color,false,false, , ,true,<default>
+backgroundSelectionColor,Color,false,false, , ,true,<default>
+borderSelectionColor,Color,false,false, , ,true,<default>
+changedBackground,java.awt.Color,false,false,changedBackground,changedBackground,true,<default>
+changedFileImageIcon,ImageIcon,false,false, , ,true,<default>
+changedForeground,java.awt.Color,false,false,changedForeground,changedForeground,true,<default>
+closedAddedFolderImageIcon,ImageIcon,false,false, , ,true,<default>
+closedChangedFolderImageIcon,ImageIcon,false,false, , ,true,<default>
+closedDeletedFolderImageIcon,ImageIcon,false,false, , ,true,<default>
+closedUnchangedFolderImageIcon,ImageIcon,false,false, , ,true,<default>
+compareMenuItem,JMenuItem,false,false, , ,false,<default>
+deletedBackground,java.awt.Color,false,false,deletedBackground,deletedBackground,true,<default>
+deletedFileImageIcon,ImageIcon,false,false, , ,true,<default>
+deletedForeground,java.awt.Color,false,false,deletedForeground,deletedForeground,true,<default>
+diffFile,DiffFile,false,false, , ,true,<default>
+mergeMenuItem,JMenuItem,false,false, , ,false,<default>
+mode,int,false,false, , ,true,<default>
+openAddedFolderImageIcon,ImageIcon,false,false, , ,true,<default>
+openChangedFolderImageIcon,ImageIcon,false,false, , ,true,<default>
+openDeletedFolderImageIcon,ImageIcon,false,false, , ,true,<default>
+openUnchangedFolderImageIcon,ImageIcon,false,false, , ,true,<default>
+popupMenu,JPopupMenu,false,false, , ,false,<default>
+textNonSelectionColor,Color,false,false, , ,true,<default>
+textSelectionColor,Color,false,false, , ,true,<default>
+unchangedBackground,java.awt.Color,false,false,unchangedBackground,unchangedBackground,true,<default>
+unchangedFileImageIcon,ImageIcon,false,false, , ,true,<default>
+unchangedForeground,java.awt.Color,false,false,unchangedForeground,unchangedForeground,true,<default>
+addedLegendIcon,javax.swing.ImageIcon,false,false,addedLegendIcon,addedLegendIcon,true,<default>
+deletedLegendIcon,javax.swing.ImageIcon,false,false,deletedLegendIcon,deletedLegendIcon,true,<default>
+changedLegendIcon,javax.swing.ImageIcon,false,false,changedLegendIcon,changedLegendIcon,true,<default>
+unchangedLegendIcon,javax.swing.ImageIcon,false,false,unchangedLegendIcon,unchangedLegendIcon,true,<default>
+[IconNames]
+
+
+
+
